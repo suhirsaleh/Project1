@@ -1,0 +1,113 @@
+.menu {
+    justify-content: center;
+}
+
+p {
+ text-align: left;
+ color: white;
+ font-size: 25px;
+ font-style: normal;
+ font-family:'Times New Roman', Times, serif;
+}
+  
+
+
+#header {
+  background:url('./Assets/Background.jpg');
+  
+}
+
+h1{
+color:white  ;
+  font-weight: bold;
+  text-shadow:8px 11px #171766;
+  font-size: 100px;
+  font-family: 'Italianno';  
+  }
+
+.subheader {
+  color:#ffffff;
+  font-family: 'IM Fell Double Pica', serif;
+  font-size: 35px;
+}
+
+body {
+  background:linear-gradient(to top left, #66ccff 18%,  #000033
+  75%);
+}
+ h2   {
+  font-size: 30px;
+  color:whitesmoke;
+  font-weight: bolder;
+  font-family: 'Lobster Two', cursive;
+
+}
+
+h3 {
+ text-align: center;
+  font-size: 25px;
+  color:white;
+  font-weight: bolder;
+  font-family: 'Lobster Two', cursive;
+}
+h4{
+  text-align: center;
+  font-size: 30px;
+  color:#171766;
+  font-weight: bolder;
+  font-family: 'Lobster Two', cursive;
+
+}
+.grid-x {
+  justify-content:center;
+  margin-top: 40px;
+  
+}
+.thumbnail {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px #66ccff;
+}
+
+
+#search-button {
+  margin-top: 50px;
+}
+
+#textarea{
+  margin-top: 50px;
+}
+
+.medium-6{
+  background-color: #000033;
+  color:white;
+  font-size: 30px;
+  border-radius: 15px;
+  width: 100%;
+  justify-content: center;
+}
+
+.card {
+  box-shadow: 5px 10px #000033;
+}
+
+.historyListItems{
+  border: solid grey 1px;
+  margin-bottom: 5px;
+  padding: 5px;
+  text-align: center;
+  border-radius: 15px;
+  color: black;
+}
+
+.historyListItems:hover{
+  cursor: pointer;
+}
+   
+.card-divider{
+  justify-content: center;
+}
+
+#definitions{
+  font-size: 20px;
+}
